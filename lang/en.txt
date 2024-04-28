@@ -1,0 +1,14 @@
+baby_brump=Baby Brump
+baby_brump_bio=La Baby Brumpe is da Epico Italiano.. but even Baby Thwok knows Chinese better than Baby Brump.
+
+baby_zynth=Baby Zynth
+baby_zynth_bio=Long long ago.. in a very very dark street.. Baby Zynth found a very very dark watermelon.. He grabbed a very very big knife.. And he cut it.
+
+baby_dwumrohl=Baby Dwumrohl
+baby_dwumrohl_bio=TBA
+
+baby_thwok=Baby Thwok
+baby_thwok_bio=TBA
+
+island_ll=Lightning Lodge
+island_ll_bio=Okay, we get it: The island was made by the grown Wublins just for the baby Wublins to stay there. But why?
